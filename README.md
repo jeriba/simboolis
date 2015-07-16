@@ -3,4 +3,4 @@ Simple Book List
 
 on GNU recutils
 
-cloned in moto
+cloned on moto g
